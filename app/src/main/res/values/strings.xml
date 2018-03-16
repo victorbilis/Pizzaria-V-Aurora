@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Vó Aurora</string>
+    <string name="title_activity_ini">Pizzaria Vó Aurora</string>
+    <string name="title_activity_cad">cad</string>
+    <string-array name="filtro"><!---->
+        <item>Coca-Cola</item>
+        <item>Pespi</item>
+        <item>Fanta</item>
+        <item>Guaraná Kuat</item>
+        <item>Itubaína</item>
+        <item>Schin</item>
+        <item>Sprite</item>
+        <item>Guaraná Antarctica</item>
+    </string-array>
+    <string-array name="filtro2"><!---->
+        <item>Cartão</item>
+        <item>Dinheiro</item>
+    </string-array>
+</resources>
